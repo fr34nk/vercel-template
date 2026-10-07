@@ -35,3 +35,8 @@ lerna-debug.log*
 *.sln
 *.swp
 .vscode/
+
+
+
+# temporary env file
+config/firebase.config.ts
