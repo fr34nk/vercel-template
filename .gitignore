@@ -40,3 +40,8 @@ lerna-debug.log*
 
 # temporary env file
 config/firebase.config.ts
+.vercel
+.env*
+
+
+public
